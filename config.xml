@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+        <speed>
+                <black>250</black>
+                <white>3000</white>
+                <free>20000</free>
+        </speed>
+        <dir>
+            <open>/</open>
+            <save>/</save>
+        </dir>
+        <size>
+                <width>220</width>
+                <height>210</height>
+        </size>
+        <proc>
+                <start>Последний</start>
+                <middle>G01 X0</middle>
+                <end>Последний</end>
+        </proc>
+        <axes>
+                <first>X</first>
+                <second>Y</second>
+        </axes>
+</config>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rotate_cw.png</file>
+        <file>rotate_ccw.png</file>
+        <file>editcut.png</file>
+    </qresource>
+</RCC>
